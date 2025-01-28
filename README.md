@@ -1,8 +1,10 @@
-# React + Vite
+# Wander Vista
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Welcome to **Wander Vista**, your go-to travel agency platform for discovering and booking amazing trips! Wander Vista helps you explore various travel destinations, book trips, and get in touch with our team for personalized services.
 
-Currently, two official plugins are available:
+## Features
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- **Browse Destinations**: Explore different travel destinations with detailed information.
+- **User-friendly Interface**: Easy-to-use platform for all your travel booking needs.
+- **Contact Form**: Get in touch with us easily via the contact form.
+- **Responsive Design**: Optimized for both desktop and mobile views.
