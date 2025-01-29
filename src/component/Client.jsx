@@ -25,7 +25,6 @@ const testimonials = [
     text: "Great customer service and fantastic travel packages. Will definitely book with them again!",
     location: "Sydney, Australia",
   },
-  //   to be added
 ];
 
 const Client = () => {

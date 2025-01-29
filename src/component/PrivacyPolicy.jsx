@@ -59,10 +59,10 @@ const PrivacyPolicy = () => {
             If you have any questions about this Privacy Policy, please contact
             us at{" "}
             <a
-              href="mailto:support@travelagency.com"
+              href="mailto:support@wandervista.com"
               className="text-blue-600 underline"
             >
-              support@travelagency.com
+              support@wandervista.com
             </a>
             .
           </p>

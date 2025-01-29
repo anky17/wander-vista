@@ -8,7 +8,7 @@ const Footer = () => {
       <div className="container mx-auto px-4">
         <div className="grid grid-cols-1 md:grid-cols-3 gap-8">
           <div>
-            <h2 className="text-2xl font-bold mb-4">Travel Agency</h2>
+            <h2 className="text-2xl font-bold mb-4">WanderVista</h2>
             <p className="mb-4">
               Your trusted partner for unforgetabble travel experiences. Explore
               the world with us.
@@ -59,7 +59,7 @@ const Footer = () => {
           </div>
         </div>
         <div className="flex justify-between mt-8 boder-t border-gray-700 pt-4">
-          <p> &copy; 2024 Travel Agency. All rights reserved.</p>
+          <p> &copy; 2024 WanderVista. All rights reserved.</p>
           <div className="flex space-x-4 mt-4 md:mt-0">
             <Link to="/privacy-policy">Privacy Policy</Link>
             <Link to="/terms-of-service">Terms of Services</Link>

@@ -79,7 +79,7 @@ const About = () => {
                 <h4 className="text-xl font-semibold text-gray-700">{title}</h4>
                 <p className="text-gray-600 text-center">
                   {index === 0
-                    ? "Over a decade of travel expertise, offering curated adventures tailored to your needs."
+                    ? "Travel expertise, offering curated adventures tailored to your needs."
                     : index === 1
                     ? "Dedicated customer support ensures peace of mind for every journey."
                     : "Committed to eco-friendly practices for a better future."}
